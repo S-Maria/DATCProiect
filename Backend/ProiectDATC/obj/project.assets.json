@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/manu/Others/Faculta/an4/datc/proiect/ProiectDATC/ProiectDATC.csproj",
+      "projectUniqueName": "/home/manu/DATCProiect/Backend/ProiectDATC/ProiectDATC.csproj",
       "projectName": "ProiectDATC",
-      "projectPath": "/media/manu/Others/Faculta/an4/datc/proiect/ProiectDATC/ProiectDATC.csproj",
+      "projectPath": "/home/manu/DATCProiect/Backend/ProiectDATC/ProiectDATC.csproj",
       "packagesPath": "/home/manu/.nuget/packages/",
-      "outputPath": "/media/manu/Others/Faculta/an4/datc/proiect/ProiectDATC/obj/",
+      "outputPath": "/home/manu/DATCProiect/Backend/ProiectDATC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/manu/.nuget/NuGet/NuGet.Config"

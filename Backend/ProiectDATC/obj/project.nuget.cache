@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nJEqr/8UJeifW4fQlyqF+CJJMRl+icV1GRnHD1QuCJFcd0DeF5pr92r7/oYrHm0RwYzWFg+yqhhuXdzM1C83HA==",
+  "dgSpecHash": "2avNueYnY/70qpyclRPC5dD7IkiJkOHDOJPmSfnWwlKgWq3v6RFeccoPTBQ3L7bmsBKiVU+a3HL3ISWmleA7Tg==",
   "success": true,
-  "projectFilePath": "/media/manu/Others/Faculta/an4/datc/proiect/ProiectDATC/ProiectDATC.csproj",
+  "projectFilePath": "/home/manu/DATCProiect/Backend/ProiectDATC/ProiectDATC.csproj",
   "expectedPackageFiles": [
     "/home/manu/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/manu/.nuget/packages/azure.core.amqp/1.2.0/azure.core.amqp.1.2.0.nupkg.sha512",

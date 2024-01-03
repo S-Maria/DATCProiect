@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MSSQL",
+            "name": "ProiectDatc",
+            "connectString": "Server=localhost;Database=TEST;User Id=SA;Password=Administrator1;"
+        }
+    ]
+}
