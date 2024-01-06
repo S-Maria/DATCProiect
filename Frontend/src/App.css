@@ -1,0 +1,174 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-image: url(assets/CityBg.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #849398ff;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: rgb(219, 210, 207);
+  font-size: 21px;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: rgb(219, 210, 207);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: rgb(219, 210, 207);
+}
+
+textarea,
+input {
+  width: 90%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #37545Fff;
+}
+
+.btn_txt {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(219, 210, 207);
+}
+
+.btn_txt2 {
+  font-size: 13px;
+  font-weight: bold;
+  color: #37545Fff;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #2D4953ff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2D4953ff;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.circle-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circle-button__button {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  background-image: url(assets/icon-admin-512.png);
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+.modal-overlay {
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal {
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.modal-content {
+  position: relative;
+  background-color: #849398ff;
+  margin: 20% auto;
+  padding: 20px;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.close-modal-button {
+  position: absolute;
+  top: -5px;
+  right: 10px;
+  display: inline-block;
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-modal-button:hover {
+  color: #2D4953ff;
+}
+
+#issue {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid rgb(219, 210, 207);
+  border-radius: 4px;
+  max-width: 200px;
+}
+
+#issue option {
+  padding: 10px;
+}
+
+.leaflet-container {
+  height: 35vh;
+  width: 100%;
+  border-radius: 1rem;
+}
+
+.bad {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(180, 84, 72);
+}
